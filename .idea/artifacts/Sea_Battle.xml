@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Sea_Battle">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sea_Battle</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="sample.Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="battle" />
+        <option name="vendor" value="" />
+        <option name="version" value="1.0" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="Sea_Battle.jar">
+        <element id="module-output" name="Sea_Battle" />
+      </element>
+    </root>
+  </artifact>
+</component>
